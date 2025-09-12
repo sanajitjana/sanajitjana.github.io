@@ -31,11 +31,6 @@ This is a personal blog built with Hugo, using the Hugo Narrow theme.
    git submodule update --init --recursive
    ```
 
-3. Install dependencies (if any):
-   ```bash
-   # No additional dependencies required for basic setup
-   ```
-
 ### Development
 
 1. Start the Hugo development server:
