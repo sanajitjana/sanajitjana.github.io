@@ -1,1 +1,1 @@
-https://github.com/sanajitjana/sanajitjana.github.io
+https://sanajitjana.github.io
