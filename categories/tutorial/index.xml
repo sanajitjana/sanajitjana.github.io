@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</title><link>https://sanajitjana.github.io/</link><description>Recent content on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 15 Sep 2025 16:45:00 +0530</lastBuildDate><atom:link href="https://sanajitjana.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Theme Customization</title><link>https://sanajitjana.github.io/posts/2025/09/hugo-theme-customization/</link><pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate><guid>https://sanajitjana.github.io/posts/2025/09/hugo-theme-customization/</guid><description>&lt;h1 id="hugo-theme-customization"&gt;Hugo Theme Customization&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorial on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</title><link>https://sanajitjana.github.io/categories/tutorial/</link><description>Recent content in Tutorial on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 15 Sep 2025 16:45:00 +0530</lastBuildDate><atom:link href="https://sanajitjana.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Theme Customization</title><link>https://sanajitjana.github.io/posts/2025/09/hugo-theme-customization/</link><pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate><guid>https://sanajitjana.github.io/posts/2025/09/hugo-theme-customization/</guid><description>&lt;h1 id="hugo-theme-customization"&gt;Hugo Theme Customization&lt;/h1&gt;
 &lt;p&gt;The Hugo Narrow theme is highly customizable. Let&amp;rsquo;s explore how to modify and extend the theme to match your specific needs and branding.&lt;/p&gt;
 &lt;h2 id="theme-structure"&gt;Theme Structure&lt;/h2&gt;
 &lt;p&gt;Understanding the theme structure is key to customization:&lt;/p&gt;
@@ -69,22 +69,4 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Build for production&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;hugo --minify
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="content-organization"&gt;Content Organization&lt;/h2&gt;
-&lt;p&gt;Hugo uses a simple but powerful content organization:&lt;/p&gt;</description></item><item><title>My First Post</title><link>https://sanajitjana.github.io/posts/2025/09/my-first-post/</link><pubDate>Fri, 12 Sep 2025 12:03:36 +0530</pubDate><guid>https://sanajitjana.github.io/posts/2025/09/my-first-post/</guid><description>&lt;h1 id="welcome-to-my-hugo-blog"&gt;Welcome to My Hugo Blog&lt;/h1&gt;
-&lt;p&gt;This is my first post using the Hugo Narrow theme. The theme supports many features including:&lt;/p&gt;
-&lt;h2 id="features-configured"&gt;Features Configured&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Recent Posts&lt;/strong&gt;: Shows the 5 most recent posts on the homepage&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Related Posts&lt;/strong&gt;: Displays 3 related posts at the bottom of each post&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reading Progress&lt;/strong&gt;: Shows a progress bar while reading posts&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;License Information&lt;/strong&gt;: CC BY-NC-SA 4.0 license displayed on posts&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multiple Themes&lt;/strong&gt;: Support for various color schemes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dark/Light Mode&lt;/strong&gt;: Toggle between dark and light themes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multilingual Support&lt;/strong&gt;: Support for multiple languages&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="code-example"&gt;Code Example&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;helloHugo&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;Hello from Hugo Narrow theme!&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Welcome to my blog&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="math-support"&gt;Math Support&lt;/h2&gt;
-&lt;p&gt;The theme supports KaTeX for mathematical expressions:&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Hugo uses a simple but powerful content organization:&lt;/p&gt;</description></item></channel></rss>
