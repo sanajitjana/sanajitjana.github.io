@@ -2,17 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:50847/categories/</link>
     <description>Recent content in Categories on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Sep 2025 12:03:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Sep 2025 16:45:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:50847/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>http://localhost:50847/categories/design/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:50847/categories/tutorial/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deployment</title>
+      <link>http://localhost:50847/categories/deployment/</link>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
+      <guid>http://localhost:50847/categories/deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:50847/categories/hugo/</link>
+      <pubDate>Sun, 14 Sep 2025 14:30:00 +0530</pubDate>
+      <guid>http://localhost:50847/categories/hugo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/categories/blog/</link>
+      <link>http://localhost:50847/categories/blog/</link>
       <pubDate>Fri, 12 Sep 2025 12:03:36 +0530</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
+      <guid>http://localhost:50847/categories/blog/</guid>
       <description></description>
     </item>
   </channel>

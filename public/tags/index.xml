@@ -2,24 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:50847/tags/</link>
     <description>Recent content in Tags on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Sep 2025 12:03:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Sep 2025 16:45:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:50847/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:50847/tags/css/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>http://localhost:50847/tags/customization/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/customization/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Fri, 12 Sep 2025 12:03:36 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <link>http://localhost:50847/tags/hugo/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:50847/tags/javascript/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:50847/tags/themes/</link>
+      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:50847/tags/ci/cd/</link>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deployment</title>
+      <link>http://localhost:50847/tags/deployment/</link>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Pages</title>
+      <link>http://localhost:50847/tags/github-pages/</link>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netlify</title>
+      <link>http://localhost:50847/tags/netlify/</link>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/netlify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advanced</title>
+      <link>http://localhost:50847/tags/advanced/</link>
+      <pubDate>Sun, 14 Sep 2025 14:30:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/advanced/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:50847/tags/shortcodes/</link>
+      <pubDate>Sun, 14 Sep 2025 14:30:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site</title>
+      <link>http://localhost:50847/tags/static-site/</link>
+      <pubDate>Sat, 13 Sep 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/static-site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:50847/tags/web-development/</link>
+      <pubDate>Sat, 13 Sep 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:50847/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
+      <link>http://localhost:50847/tags/tutorial/</link>
       <pubDate>Fri, 12 Sep 2025 12:03:36 +0530</pubDate>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <guid>http://localhost:50847/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>

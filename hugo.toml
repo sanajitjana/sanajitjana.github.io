@@ -1,15 +1,16 @@
 baseURL = 'https://sanajitjana.github.io/'
-languageCode = 'en-us'
+languageCode = 'en-US'
 title = 'Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL'
 theme = 'hugo-narrow'
-# defaultContentLanguage = 'en'
-# defaultContentLanguageInSubdir = false
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+timeZone = 'UTC'
 
-hasCJKLanguage = true
+hasCJKLanguage = false
 enableEmoji = true
 
 [permalinks]
-  posts = "/posts/:slug/"
+  posts = "/posts/:year/:month/:slug/"
   pages = "/:slug/"
 
 [pagination]
@@ -52,25 +53,25 @@ enableEmoji = true
 
 [menus]
 [[menus.main]]
-  name = "nav.posts"
+  name = "Posts"
   pageRef = "/posts"
   weight = 20
   [menus.main.params]
     icon = "posts"
 [[menus.main]]
-  name = "nav.categories"
+  name = "Categories"
   pageRef = "/categories"
   weight = 30
   [menus.main.params]
     icon = "categories"
 [[menus.main]]
-  name = "nav.tags"
+  name = "Tags"
   pageRef = "/tags"
   weight = 40
   [menus.main.params]
     icon = "tags"
 [[menus.main]]
-  name = "nav.archives"
+  name = "Archives"
   pageRef = "/archives"
   weight = 50
   [menus.main.params]
@@ -122,8 +123,8 @@ enableEmoji = true
 
 [params]
   # Basic site info with SEO
-  description = "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design."
-  keywords = ["Hugo", "Blog", "Theme", "Technology", "Programming"]
+  description = "Site description"
+  keywords = ["keyword1", "keyword2"]
   defaultAuthor = "Hugo Narrow"
   language = "en-US"
   shortName = "Hugo Narrow"  # PWA
@@ -165,6 +166,9 @@ enableEmoji = true
   # Dock display mode
   # Options: "scroll" (show on scroll up), "always" (always visible), "float" (floating button)
   dock = "float"
+
+  # Footer credits
+  showPoweredBy = false  # Hide "Powered by Hugo & Narrow" from footer
 
   # default color scheme
   colorScheme = "default"
