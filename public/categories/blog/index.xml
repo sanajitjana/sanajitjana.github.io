@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</title>
+    <title>Blog on Sanajit Jana</title>
     <link>http://localhost:50847/categories/blog/</link>
-    <description>Recent content in Blog on Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL</description>
+    <description>Recent content in Blog on Sanajit Jana</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 12 Sep 2025 12:03:36 +0530</lastBuildDate>

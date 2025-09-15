@@ -1,6 +1,6 @@
 baseURL = 'https://sanajitjana.github.io/'
 languageCode = 'en-US'
-title = 'Sanajit Jana - Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL'
+title = 'Sanajit Jana'
 theme = 'hugo-narrow'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
@@ -17,65 +17,29 @@ enableEmoji = true
   pagerSize = 6
   path = "page"
 
-[languages]
-  [languages.en]
-    languageCode = "en-US"
-    languageName = "English"
-    weight = 1
-  [languages.zh-cn]
-    languageCode = "zh-CN"
-    languageName = "简体中文"
-    weight = 2
-  [languages.ja]
-    languageCode = "ja-JP"
-    languageName = "日本語"
-    weight = 3
-  [languages.fr]
-    languageCode = "fr-FR"
-    languageName = "Français"
-    weight = 4
-  # [languages.de]
-  #   languageCode = "de-DE"
-  #   languageName = "Deutsch"
-  #   weight = 5
-  # [languages.es]
-  #   languageCode = "es-ES"
-  #   languageName = "Español"
-  #   weight = 6
-  # [languages.ru]
-  #   languageCode = "ru-RU"
-  #   languageName = "Русский"
-  #   weight = 7
-
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [menus]
 [[menus.main]]
-  name = "Posts"
-  pageRef = "/posts"
+  name = "Work"
+  pageRef = "/work"
   weight = 20
   [menus.main.params]
-    icon = "posts"
+    icon = "work"
 [[menus.main]]
-  name = "Categories"
-  pageRef = "/categories"
+  name = "Projects"
+  pageRef = "/projects"
   weight = 30
   [menus.main.params]
-    icon = "categories"
+    icon = "projects"
 [[menus.main]]
-  name = "Tags"
-  pageRef = "/tags"
+  name = "Posts"
+  pageRef = "/posts"
   weight = 40
   [menus.main.params]
-    icon = "tags"
-[[menus.main]]
-  name = "Archives"
-  pageRef = "/archives"
-  weight = 50
-  [menus.main.params]
-    icon = "archive"
+    icon = "posts"
 
 [[menus.footer]]
   name = "About"
@@ -98,25 +62,25 @@ enableEmoji = true
 
 [[menus.social]]
   name = "GitHub"
-  url = "https://github.com/username"
+  url = "https://github.com/sanajitjana"
   weight = 10
   [menus.social.params]
     icon = "github"
 [[menus.social]]
-  name = "Twitter"
-  url = "https://twitter.com/username"
+  name = "X"
+  url = "https://x.com/sanajitjana01"
   weight = 20
   [menus.social.params]
-    icon = "twitter"
+    icon = "x"
 [[menus.social]]
   name = "LinkedIn"
-  url = "https://linkedin.com/in/username"
+  url = "https://linkedin.com/in/sanajitjana01"
   weight = 30
   [menus.social.params]
     icon = "linkedin"
 [[menus.social]]
   name = "Email"
-  url = "mailto:your.email@example.com"
+  url = "mailto:sanajitjana01@gmail.com"
   weight = 40
   [menus.social.params]
     icon = "email"
@@ -137,27 +101,27 @@ enableEmoji = true
     svg = "/favicon.svg"        # SVG format favicon (recommended)
 
   [params.author]
-    name = "Hugo Narrow"
-    title = "A Clean and Minimal Hugo Theme"
-    description = "Focused on content and user experience."
+    name = "Sanajit Jana"
+    title = "Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL"
+    description = "A software engineer specializing in Java, Spring Boot, and Microservices. I design and develop scalable backend architectures, API-driven applications, and cloud-based solutions using AWS, Kafka, Docker, and PostgreSQL. Passionate about problem-solving, distributed systems, and writing clean, efficient code."
     avatar = "/images/avatar.svg"
     [[params.author.social]]
       name = "GitHub"
-      url = "https://github.com/username"
+      url = "https://github.com/sanajitjana"
       icon = "github"
     [[params.author.social]]
-      name = "Twitter"
-      url = "https://twitter.com/username"
-      icon = "twitter"
+      name = "X"
+      url = "https://x.com/sanajitjana01"
+      icon = "x"
     [[params.author.social]]
       name = "Email"
-      url = "mailto:hello@example.com"
+      url = "mailto:sanajitjana01@gmail.com"
       icon = "email"
 
   # UI Components Control
   showThemeSwitch = true      # Set to false to hide theme style switcher (palette icon)
   showDarkModeSwitch = true   # Set to false to hide dark mode switcher (sun/moon icon)
-  showLanguageSwitch = true   # Set to false to hide language switcher
+  showLanguageSwitch = false
   languageSwitchMode = "dropdown"  # Language switch mode: "dropdown" (show panel) or "cycle" (direct cycle)
 
   # Header sticky effect

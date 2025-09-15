@@ -1,26 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:50847/en/sitemap.xml</loc>
-    
-      <lastmod>2025-09-15T16:45:00+05:30</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:50847/zh-cn/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:50847/ja/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:50847/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:50847/categories/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/css/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/customization/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/categories/design/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/hugo/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/posts/2025/09/hugo-theme-customization/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/javascript/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/posts/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/themes/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/categories/tutorial/</loc>
+    <lastmod>2025-09-15T16:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/ci/cd/</loc>
+    <lastmod>2025-09-15T09:15:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/posts/2025/09/deploying-hugo-sites/</loc>
+    <lastmod>2025-09-15T09:15:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/categories/deployment/</loc>
+    <lastmod>2025-09-15T09:15:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/deployment/</loc>
+    <lastmod>2025-09-15T09:15:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/github-pages/</loc>
+    <lastmod>2025-09-15T09:15:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/netlify/</loc>
+    <lastmod>2025-09-15T09:15:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/advanced/</loc>
+    <lastmod>2025-09-14T14:30:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/posts/2025/09/advanced-hugo-features/</loc>
+    <lastmod>2025-09-14T14:30:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/categories/hugo/</loc>
+    <lastmod>2025-09-14T14:30:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/shortcodes/</loc>
+    <lastmod>2025-09-14T14:30:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/posts/2025/09/getting-started-with-hugo/</loc>
+    <lastmod>2025-09-13T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/static-site/</loc>
+    <lastmod>2025-09-13T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/web-development/</loc>
+    <lastmod>2025-09-13T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/categories/blog/</loc>
+    <lastmod>2025-09-12T12:03:36+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/posts/2025/09/my-first-post/</loc>
+    <lastmod>2025-09-12T12:03:36+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/tags/tutorial/</loc>
+    <lastmod>2025-09-12T12:03:36+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:50847/projects/</loc>
+  </url><url>
+    <loc>http://localhost:50847/work/work/</loc>
+  </url><url>
+    <loc>http://localhost:50847/work/</loc>
+  </url>
+</urlset>
