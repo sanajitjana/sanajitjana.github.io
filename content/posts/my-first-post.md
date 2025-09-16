@@ -1,6 +1,6 @@
 +++
 title = 'My First Post'
-date = '2025-09-12T12:03:36+05:30'
+date = '2025-08-04T12:03:36+05:30'
 draft = false
 categories = ["Blog"]
 tags = ["Hugo", "Tutorial"]
@@ -18,7 +18,6 @@ This is my first post using the Hugo Narrow theme. The theme supports many featu
 - **License Information**: CC BY-NC-SA 4.0 license displayed on posts
 - **Multiple Themes**: Support for various color schemes
 - **Dark/Light Mode**: Toggle between dark and light themes
-- **Multilingual Support**: Support for multiple languages
 
 ## Code Example
 
