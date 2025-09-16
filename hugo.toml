@@ -23,17 +23,23 @@ enableEmoji = true
 
 [menus]
 [[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+  [menus.main.params]
+    icon = "home"
+[[menus.main]]
   name = "Work"
   pageRef = "/work"
   weight = 20
   [menus.main.params]
-    icon = "work"
+    icon = "briefcase"
 [[menus.main]]
   name = "Projects"
   pageRef = "/projects"
   weight = 30
   [menus.main.params]
-    icon = "projects"
+    icon = "folder"
 [[menus.main]]
   name = "Posts"
   pageRef = "/posts"
@@ -60,6 +66,7 @@ enableEmoji = true
   [menus.footer.params]
     icon = "rss"
 
+# Footer manu socials
 [[menus.social]]
   name = "GitHub"
   url = "https://github.com/sanajitjana"
@@ -67,11 +74,11 @@ enableEmoji = true
   [menus.social.params]
     icon = "github"
 [[menus.social]]
-  name = "X"
+  name = "Twitter"
   url = "https://x.com/sanajitjana01"
   weight = 20
   [menus.social.params]
-    icon = "x"
+    icon = "twitter"
 [[menus.social]]
   name = "LinkedIn"
   url = "https://linkedin.com/in/sanajitjana01"
@@ -87,32 +94,32 @@ enableEmoji = true
 
 [params]
   # Basic site info with SEO
-  description = "Site description"
-  keywords = ["keyword1", "keyword2"]
+  description = "I'm Sanajit Jana, a Full Stack Software Developer specializing in Java, Spring Boot, and Microservices. I build scalable and high-performance web applications using MySQL, PostgreSQL, Kafka, Docker, and AWS. Passionate about backend architecture, API development, cloud computing, and UI/UX design."
+  keywords = ["Sanajit Jana", "Full Stack Developer", "Java Developer", "Spring Boot", "Microservices", "AWS", "Kafka", "Docker", "Kubernetes", "PostgreSQL", "MySQL", "REST API", "Backend Developer", "Frontend Developer", "Software Engineer", "CI/CD", "Redis", "Hibernate", "JPA", "JavaScript", "React", "HTML", "CSS", "UI/UX", "Web Development", "API Development", "Scalable Systems", "Cloud Computing", "DevOps", "Git", "GitHub", "Agile", "SDLC", "System Architecture", "Software Development"]
   defaultAuthor = "Hugo Narrow"
   language = "en-US"
-  shortName = "Hugo Narrow"  # PWA
-  images = ["/images/og-default.avif"]
+  shortName = "Sanajit Jana"  # PWA
+  images = ["/images/favicon.ico"]
 
   [params.logo]
-    image = "/images/logo.svg"  # Logo path rel to static folder, leave empty use site title and primary color
+    image = "/images/favicon.ico"  # Logo path rel to static folder, leave empty use site title and primary color
     link = "/"                  # click to home page
   [params.favicon]
-    svg = "/favicon.svg"        # SVG format favicon (recommended)
+    svg = "/images/favicon.ico"        # SVG format favicon (recommended)
 
   [params.author]
     name = "Sanajit Jana"
-    title = "Software Engineer | Java, Spring Boot, Microservices, AWS, Kafka, Docker, SQL"
-    description = "A software engineer specializing in Java, Spring Boot, and Microservices. I design and develop scalable backend architectures, API-driven applications, and cloud-based solutions using AWS, Kafka, Docker, and PostgreSQL. Passionate about problem-solving, distributed systems, and writing clean, efficient code."
-    avatar = "/images/avatar.svg"
+    title = "Software Engineer | Java, Spring Boot, Microservices, AWS"
+    description = "Building scalable backends, cloud-native apps, and solving complex problems with clean code."
+    avatar = "/images/sanajit-jana.webp"
     [[params.author.social]]
       name = "GitHub"
       url = "https://github.com/sanajitjana"
       icon = "github"
     [[params.author.social]]
-      name = "X"
+      name = "Twitter"
       url = "https://x.com/sanajitjana01"
-      icon = "x"
+      icon = "twitter"
     [[params.author.social]]
       name = "Email"
       url = "mailto:sanajitjana01@gmail.com"
@@ -180,7 +187,7 @@ enableEmoji = true
     relatedPostsCount = 3        # posts number
     [params.post.license]
       show = true
-      author = "Hugo Narrow"
+      author = "Sanajit Jana"
       name = "CC BY-NC-SA 4.0"
       description = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
       url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
