@@ -1,6 +1,6 @@
 +++
 title = 'My First Post'
-date = '2025-08-04T12:03:36+05:30'
+date = '2025-08-02T12:03:36+05:30'
 draft = false
 categories = ["Blog"]
 tags = ["Hugo", "Tutorial"]

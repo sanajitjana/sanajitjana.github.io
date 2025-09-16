@@ -1,7 +1,7 @@
 +++
 title = 'Mobile App Development with React Native'
-date = '2025-09-16T09:28:00+05:30'
-draft = false
+date = '2025-10-25T09:28:00+05:30'
+draft = true
 categories = ["Mobile"]
 tags = ["React Native", "Mobile Development", "JavaScript", "iOS", "Android"]
 +++

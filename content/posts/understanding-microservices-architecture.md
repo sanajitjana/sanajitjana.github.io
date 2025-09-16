@@ -1,6 +1,6 @@
 +++
 title = 'Understanding Microservices Architecture'
-date = '2025-09-16T09:21:00+05:30'
+date = '2025-09-06T09:21:00+05:30'
 draft = false
 categories = ["Technology"]
 tags = ["Microservices", "Architecture", "Spring Boot", "Java"]

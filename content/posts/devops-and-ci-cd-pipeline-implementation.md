@@ -1,7 +1,7 @@
 +++
-title = 'DevOps and CI/CD Pipeline Implementation'
-date = '2025-09-16T09:29:00+05:30'
-draft = false
+title = 'DevOps and CI-CD Pipeline Implementation'
+date = '2025-11-01T09:29:00+05:30'
+draft = true
 categories = ["DevOps"]
 tags = ["DevOps", "CI/CD", "Jenkins", "GitHub Actions", "Docker", "Kubernetes"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = 'API Design and RESTful Services'
-date = '2025-09-16T09:30:00+05:30'
-draft = false
+date = '2025-11-08T09:30:00+05:30'
+draft = true
 categories = ["API"]
 tags = ["API Design", "REST", "GraphQL", "OpenAPI", "Microservices"]
 +++

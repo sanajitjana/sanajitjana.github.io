@@ -1,6 +1,6 @@
 +++
 title = 'Getting Started with Hugo'
-date = '2025-09-13T10:00:00+05:30'
+date = '2025-08-09T10:00:00+05:30'
 draft = false
 categories = ["Tutorial", "Hugo"]
 tags = ["Hugo", "Static Site", "Web Development"]

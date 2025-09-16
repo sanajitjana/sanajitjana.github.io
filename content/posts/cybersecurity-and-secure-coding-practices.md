@@ -1,7 +1,7 @@
 +++
 title = 'Cybersecurity and Secure Coding Practices'
-date = '2025-09-16T09:26:00+05:30'
-draft = false
+date = '2025-10-11T09:26:00+05:30'
+draft = true
 categories = ["Security"]
 tags = ["Cybersecurity", "Security", "OWASP", "Encryption", "Authentication"]
 +++

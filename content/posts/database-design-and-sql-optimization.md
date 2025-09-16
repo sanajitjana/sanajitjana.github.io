@@ -1,7 +1,7 @@
 +++
 title = 'Database Design and SQL Optimization'
-date = '2025-09-16T09:25:00+05:30'
-draft = false
+date = '2025-10-04T09:25:00+05:30'
+draft = true
 categories = ["Database"]
 tags = ["SQL", "Database Design", "Performance", "PostgreSQL", "MySQL"]
 +++

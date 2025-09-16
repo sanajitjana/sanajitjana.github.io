@@ -1,6 +1,6 @@
 +++
 title = 'Docker and Containerization Fundamentals'
-date = '2025-09-16T09:22:00+05:30'
+date = '2025-09-13T09:22:00+05:30'
 draft = false
 categories = ["DevOps"]
 tags = ["Docker", "Containers", "DevOps", "Deployment"]

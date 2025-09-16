@@ -1,6 +1,6 @@
 +++
 title = 'Deploying Hugo Sites'
-date = '2025-09-15T09:15:00+05:30'
+date = '2025-08-23T09:15:00+05:30'
 draft = false
 categories = ["Tutorial", "Deployment"]
 tags = ["Hugo", "Deployment", "GitHub Pages", "Netlify", "CI/CD"]
