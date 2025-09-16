@@ -1,0 +1,208 @@
++++
+title = 'Database Design and SQL Optimization'
+date = '2025-09-16T09:25:00+05:30'
+draft = false
+categories = ["Database"]
+tags = ["SQL", "Database Design", "Performance", "PostgreSQL", "MySQL"]
++++
+
+# Database Design and SQL Optimization
+
+A well-designed database is crucial for application performance and maintainability. In this post, we'll explore database design principles and SQL optimization techniques.
+
+## Database Design Principles
+
+### 1. Normalization vs Denormalization
+
+**Normalization** reduces data redundancy and improves data integrity:
+
+```sql
+-- First Normal Form (1NF): Atomic values
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100),
+    email VARCHAR(100) UNIQUE,
+    phone_numbers TEXT[] -- Array for multiple phones
+);
+
+-- Second Normal Form (2NF): Remove partial dependencies
+CREATE TABLE orders (
+    id SERIAL PRIMARY KEY,
+    user_id INTEGER REFERENCES users(id),
+    order_date DATE,
+    total_amount DECIMAL(10,2)
+);
+
+CREATE TABLE order_items (
+    id SERIAL PRIMARY KEY,
+    order_id INTEGER REFERENCES orders(id),
+    product_id INTEGER,
+    quantity INTEGER,
+    price DECIMAL(10,2)
+);
+```
+
+**Denormalization** can improve read performance at the cost of write complexity.
+
+### 2. Indexing Strategy
+
+```sql
+-- Single column index
+CREATE INDEX idx_users_email ON users(email);
+
+-- Composite index
+CREATE INDEX idx_orders_user_date ON orders(user_id, order_date);
+
+-- Partial index
+CREATE INDEX idx_active_users ON users(email) WHERE active = true;
+
+-- Unique index
+CREATE UNIQUE INDEX idx_unique_email ON users(LOWER(email));
+```
+
+## SQL Query Optimization
+
+### 1. EXPLAIN and Query Analysis
+
+```sql
+-- PostgreSQL EXPLAIN
+EXPLAIN ANALYZE
+SELECT u.name, COUNT(o.id) as order_count
+FROM users u
+LEFT JOIN orders o ON u.id = o.user_id
+WHERE u.created_at > '2024-01-01'
+GROUP BY u.id, u.name
+HAVING COUNT(o.id) > 5;
+
+-- MySQL EXPLAIN
+EXPLAIN
+SELECT * FROM users WHERE email LIKE 'john%';
+```
+
+### 2. Common Optimization Techniques
+
+**Avoid SELECT ***
+```sql
+-- Bad
+SELECT * FROM users WHERE id = 1;
+
+-- Good
+SELECT id, name, email FROM users WHERE id = 1;
+```
+
+**Use EXISTS instead of IN for large datasets**
+```sql
+-- Less efficient
+SELECT * FROM users
+WHERE id IN (SELECT user_id FROM orders WHERE total > 100);
+
+-- More efficient
+SELECT * FROM users u
+WHERE EXISTS (
+    SELECT 1 FROM orders o
+    WHERE o.user_id = u.id AND o.total > 100
+);
+```
+
+**Optimize JOINs**
+```sql
+-- Use INNER JOIN when appropriate
+SELECT u.name, p.title
+FROM users u
+INNER JOIN posts p ON u.id = p.author_id;
+
+-- Avoid Cartesian products
+SELECT u.name, p.title
+FROM users u, posts p  -- Implicit cross join - BAD
+WHERE u.id = p.author_id;
+```
+
+## Advanced SQL Features
+
+### 1. Window Functions
+
+```sql
+-- Ranking functions
+SELECT
+    name,
+    salary,
+    RANK() OVER (ORDER BY salary DESC) as salary_rank,
+    DENSE_RANK() OVER (ORDER BY salary DESC) as dense_rank
+FROM employees;
+
+-- Running totals
+SELECT
+    order_date,
+    amount,
+    SUM(amount) OVER (ORDER BY order_date) as running_total
+FROM orders;
+```
+
+### 2. Common Table Expressions (CTEs)
+
+```sql
+WITH monthly_sales AS (
+    SELECT
+        DATE_TRUNC('month', order_date) as month,
+        SUM(amount) as total_sales
+    FROM orders
+    GROUP BY DATE_TRUNC('month', order_date)
+),
+sales_growth AS (
+    SELECT
+        month,
+        total_sales,
+        LAG(total_sales) OVER (ORDER BY month) as prev_month_sales,
+        ((total_sales - LAG(total_sales) OVER (ORDER BY month)) /
+         LAG(total_sales) OVER (ORDER BY month)) * 100 as growth_percent
+    FROM monthly_sales
+)
+SELECT * FROM sales_growth
+WHERE growth_percent > 10;
+```
+
+## Database Performance Monitoring
+
+### 1. Key Metrics to Monitor
+
+- Query execution time
+- Connection pool utilization
+- Cache hit ratios
+- Disk I/O operations
+- Lock contention
+
+### 2. Slow Query Log Analysis
+
+```sql
+-- PostgreSQL: Enable slow query logging
+ALTER SYSTEM SET log_min_duration_statement = '1000'; -- Log queries > 1 second
+
+-- MySQL: Enable slow query log
+SET GLOBAL slow_query_log = 'ON';
+SET GLOBAL long_query_time = 1; -- Log queries > 1 second
+```
+
+## Best Practices
+
+1. **Use appropriate data types**: Choose the smallest data type that fits your needs
+2. **Implement proper constraints**: Use PRIMARY KEY, FOREIGN KEY, CHECK, and UNIQUE constraints
+3. **Regular maintenance**: Update statistics, rebuild indexes, and clean up unused data
+4. **Backup strategy**: Implement regular backups and test restoration procedures
+5. **Security**: Use parameterized queries to prevent SQL injection
+
+## Database Scaling Strategies
+
+### 1. Read Replicas
+```sql
+-- Create read replica (PostgreSQL example)
+SELECT * FROM users; -- Reads from replica
+INSERT INTO users (name) VALUES ('John'); -- Writes to primary
+```
+
+### 2. Sharding
+Distribute data across multiple databases based on a shard key.
+
+### 3. Caching
+Use Redis or Memcached to cache frequently accessed data.
+
+A well-optimized database is the foundation of high-performance applications. Regular monitoring and optimization are essential for maintaining good performance as your application grows.

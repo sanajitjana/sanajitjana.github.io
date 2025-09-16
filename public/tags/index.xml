@@ -6,8 +6,323 @@
     <description>Recent content in Tags on Sanajit Jana</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Sep 2025 16:45:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 09:30:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API Design</title>
+      <link>http://localhost:1313/tags/api-design/</link>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/api-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GraphQL</title>
+      <link>http://localhost:1313/tags/graphql/</link>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/graphql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microservices</title>
+      <link>http://localhost:1313/tags/microservices/</link>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAPI</title>
+      <link>http://localhost:1313/tags/openapi/</link>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/openapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REST</title>
+      <link>http://localhost:1313/tags/rest/</link>
+      <pubDate>Tue, 16 Sep 2025 09:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/rest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/tags/ci/cd/</link>
+      <pubDate>Tue, 16 Sep 2025 09:29:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Tue, 16 Sep 2025 09:29:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Tue, 16 Sep 2025 09:29:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Actions</title>
+      <link>http://localhost:1313/tags/github-actions/</link>
+      <pubDate>Tue, 16 Sep 2025 09:29:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jenkins</title>
+      <link>http://localhost:1313/tags/jenkins/</link>
+      <pubDate>Tue, 16 Sep 2025 09:29:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/tags/kubernetes/</link>
+      <pubDate>Tue, 16 Sep 2025 09:29:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>http://localhost:1313/tags/android/</link>
+      <pubDate>Tue, 16 Sep 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Tue, 16 Sep 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Tue, 16 Sep 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile Development</title>
+      <link>http://localhost:1313/tags/mobile-development/</link>
+      <pubDate>Tue, 16 Sep 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mobile-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React Native</title>
+      <link>http://localhost:1313/tags/react-native/</link>
+      <pubDate>Tue, 16 Sep 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/react-native/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Tue, 16 Sep 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Tue, 16 Sep 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Tue, 16 Sep 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Tue, 16 Sep 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/tags/tensorflow/</link>
+      <pubDate>Tue, 16 Sep 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Authentication</title>
+      <link>http://localhost:1313/tags/authentication/</link>
+      <pubDate>Tue, 16 Sep 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Tue, 16 Sep 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Encryption</title>
+      <link>http://localhost:1313/tags/encryption/</link>
+      <pubDate>Tue, 16 Sep 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/encryption/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OWASP</title>
+      <link>http://localhost:1313/tags/owasp/</link>
+      <pubDate>Tue, 16 Sep 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/owasp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Tue, 16 Sep 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database Design</title>
+      <link>http://localhost:1313/tags/database-design/</link>
+      <pubDate>Tue, 16 Sep 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/database-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Tue, 16 Sep 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/tags/performance/</link>
+      <pubDate>Tue, 16 Sep 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:1313/tags/postgresql/</link>
+      <pubDate>Tue, 16 Sep 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Tue, 16 Sep 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend</title>
+      <link>http://localhost:1313/tags/frontend/</link>
+      <pubDate>Tue, 16 Sep 2025 09:24:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/frontend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hooks</title>
+      <link>http://localhost:1313/tags/hooks/</link>
+      <pubDate>Tue, 16 Sep 2025 09:24:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/hooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Tue, 16 Sep 2025 09:24:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Tue, 16 Sep 2025 09:24:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Tue, 16 Sep 2025 09:23:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <pubDate>Tue, 16 Sep 2025 09:23:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EC2</title>
+      <link>http://localhost:1313/tags/ec2/</link>
+      <pubDate>Tue, 16 Sep 2025 09:23:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ec2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lambda</title>
+      <link>http://localhost:1313/tags/lambda/</link>
+      <pubDate>Tue, 16 Sep 2025 09:23:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/lambda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S3</title>
+      <link>http://localhost:1313/tags/s3/</link>
+      <pubDate>Tue, 16 Sep 2025 09:23:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/s3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/tags/containers/</link>
+      <pubDate>Tue, 16 Sep 2025 09:22:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deployment</title>
+      <link>http://localhost:1313/tags/deployment/</link>
+      <pubDate>Tue, 16 Sep 2025 09:22:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>http://localhost:1313/tags/architecture/</link>
+      <pubDate>Tue, 16 Sep 2025 09:21:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Tue, 16 Sep 2025 09:21:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Boot</title>
+      <link>http://localhost:1313/tags/spring-boot/</link>
+      <pubDate>Tue, 16 Sep 2025 09:21:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/spring-boot/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CSS</title>
       <link>http://localhost:1313/tags/css/</link>
@@ -30,31 +345,10 @@
       <description></description>
     </item>
     <item>
-      <title>JavaScript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
-      <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/javascript/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Themes</title>
       <link>http://localhost:1313/tags/themes/</link>
       <pubDate>Mon, 15 Sep 2025 16:45:00 +0530</pubDate>
       <guid>http://localhost:1313/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CI/CD</title>
-      <link>http://localhost:1313/tags/ci/cd/</link>
-      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ci/cd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deployment</title>
-      <link>http://localhost:1313/tags/deployment/</link>
-      <pubDate>Mon, 15 Sep 2025 09:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/deployment/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +384,6 @@
       <link>http://localhost:1313/tags/static-site/</link>
       <pubDate>Sat, 13 Sep 2025 10:00:00 +0530</pubDate>
       <guid>http://localhost:1313/tags/static-site/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
-      <pubDate>Sat, 13 Sep 2025 10:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/web-development/</guid>
       <description></description>
     </item>
     <item>

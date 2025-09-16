@@ -152,11 +152,17 @@ enableEmoji = true
 
 # Footer menu
 [[menus.footer]]
-  name = "About"
-  pageRef = "/about"
+  name = "Home"
+  pageRef = "/"
   weight = 10
   [menus.footer.params]
-    icon = "about"
+    icon = "home"
+[[menus.footer]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 20
+  [menus.footer.params]
+    icon = "posts"
 [[menus.footer]]
   name = "RSS Feed"
   url = "/index.xml"
