@@ -2,94 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50847/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/customization/</loc>
+    <loc>http://localhost:1313/tags/customization/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/categories/design/</loc>
+    <loc>http://localhost:1313/categories/design/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/posts/2025/09/hugo-theme-customization/</loc>
+    <loc>http://localhost:1313/posts/2025/09/hugo-theme-customization/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/themes/</loc>
+    <loc>http://localhost:1313/tags/themes/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/categories/tutorial/</loc>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
     <lastmod>2025-09-15T16:45:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
     <lastmod>2025-09-15T09:15:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/posts/2025/09/deploying-hugo-sites/</loc>
+    <loc>http://localhost:1313/posts/2025/09/deploying-hugo-sites/</loc>
     <lastmod>2025-09-15T09:15:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/categories/deployment/</loc>
+    <loc>http://localhost:1313/categories/deployment/</loc>
     <lastmod>2025-09-15T09:15:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/deployment/</loc>
+    <loc>http://localhost:1313/tags/deployment/</loc>
     <lastmod>2025-09-15T09:15:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/github-pages/</loc>
+    <loc>http://localhost:1313/tags/github-pages/</loc>
     <lastmod>2025-09-15T09:15:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/netlify/</loc>
+    <loc>http://localhost:1313/tags/netlify/</loc>
     <lastmod>2025-09-15T09:15:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/advanced/</loc>
+    <loc>http://localhost:1313/tags/advanced/</loc>
     <lastmod>2025-09-14T14:30:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/posts/2025/09/advanced-hugo-features/</loc>
+    <loc>http://localhost:1313/posts/2025/09/advanced-hugo-features/</loc>
     <lastmod>2025-09-14T14:30:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/categories/hugo/</loc>
+    <loc>http://localhost:1313/categories/hugo/</loc>
     <lastmod>2025-09-14T14:30:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
     <lastmod>2025-09-14T14:30:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/posts/2025/09/getting-started-with-hugo/</loc>
+    <loc>http://localhost:1313/posts/2025/09/getting-started-with-hugo/</loc>
     <lastmod>2025-09-13T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/static-site/</loc>
+    <loc>http://localhost:1313/tags/static-site/</loc>
     <lastmod>2025-09-13T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/web-development/</loc>
+    <loc>http://localhost:1313/tags/web-development/</loc>
     <lastmod>2025-09-13T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/categories/blog/</loc>
+    <loc>http://localhost:1313/categories/blog/</loc>
     <lastmod>2025-09-12T12:03:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/posts/2025/09/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/2025/09/my-first-post/</loc>
     <lastmod>2025-09-12T12:03:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2025-09-12T12:03:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50847/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://localhost:50847/work/work/</loc>
+    <loc>http://localhost:1313/work/work/</loc>
   </url><url>
-    <loc>http://localhost:50847/work/</loc>
+    <loc>http://localhost:1313/work/</loc>
   </url>
 </urlset>
