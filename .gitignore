@@ -14,10 +14,63 @@
 # Dependency directories (uncomment if using npm)
 # node_modules/
 
-# Hugo
+# Hugo Generated Files
 public/
 resources/
 .hugo_build.lock
+
+# Hugo Cache and Temporary Files
+.cache/
+.tmp/
+
+# Node.js (if using npm/yarn for theme development)
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts
+dist/
+build/
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*.rej
 
 # OS generated files
 .DS_Store

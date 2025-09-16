@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sanajit Jana</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:62681/categories/</link>
     <description>Recent content in Categories on Sanajit Jana</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 13 Sep 2025 09:22:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62681/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/categories/devops/</link>
+      <link>http://localhost:62681/categories/devops/</link>
       <pubDate>Sat, 13 Sep 2025 09:22:00 +0530</pubDate>
-      <guid>http://localhost:1313/categories/devops/</guid>
+      <guid>http://localhost:62681/categories/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
+      <link>http://localhost:62681/categories/technology/</link>
       <pubDate>Sat, 06 Sep 2025 09:21:00 +0530</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
+      <guid>http://localhost:62681/categories/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://localhost:1313/categories/design/</link>
+      <link>http://localhost:62681/categories/design/</link>
       <pubDate>Sat, 30 Aug 2025 16:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/categories/design/</guid>
+      <guid>http://localhost:62681/categories/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/categories/tutorial/</link>
+      <link>http://localhost:62681/categories/tutorial/</link>
       <pubDate>Sat, 30 Aug 2025 16:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/categories/tutorial/</guid>
+      <guid>http://localhost:62681/categories/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Deployment</title>
-      <link>http://localhost:1313/categories/deployment/</link>
+      <link>http://localhost:62681/categories/deployment/</link>
       <pubDate>Sat, 23 Aug 2025 09:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/categories/deployment/</guid>
+      <guid>http://localhost:62681/categories/deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/categories/hugo/</link>
+      <link>http://localhost:62681/categories/hugo/</link>
       <pubDate>Sat, 16 Aug 2025 14:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/categories/hugo/</guid>
+      <guid>http://localhost:62681/categories/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/categories/blog/</link>
+      <link>http://localhost:62681/categories/blog/</link>
       <pubDate>Sat, 02 Aug 2025 12:03:36 +0530</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
+      <guid>http://localhost:62681/categories/blog/</guid>
       <description></description>
     </item>
   </channel>
