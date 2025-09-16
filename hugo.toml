@@ -1,6 +1,7 @@
 baseURL = 'https://sanajitjana.github.io/'
 languageCode = 'en-US'
 title = 'Sanajit Jana'
+
 theme = 'hugo-narrow'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
@@ -10,7 +11,7 @@ hasCJKLanguage = false
 enableEmoji = true
 
 [permalinks]
-  posts = "/posts/:year/:month/:slug/"
+  posts = "/posts/:slug/"
   pages = "/:slug/"
 
 [pagination]
@@ -21,6 +22,7 @@ enableEmoji = true
   category = "categories"
   tag = "tags"
 
+# Header menu
 [menus]
 [[menus.main]]
   name = "Home"
@@ -47,56 +49,11 @@ enableEmoji = true
   [menus.main.params]
     icon = "posts"
 
-[[menus.footer]]
-  name = "About"
-  pageRef = "/about"
-  weight = 10
-  [menus.footer.params]
-    icon = "about"
-[[menus.footer]]
-  name = "Contact"
-  url = "https://google.com"
-  weight = 20
-  [menus.footer.params]
-    icon = "contact"
-[[menus.footer]]
-  name = "RSS Feed"
-  url = "/index.xml"
-  weight = 30
-  [menus.footer.params]
-    icon = "rss"
-
-# Footer manu socials
-[[menus.social]]
-  name = "GitHub"
-  url = "https://github.com/sanajitjana"
-  weight = 10
-  [menus.social.params]
-    icon = "github"
-[[menus.social]]
-  name = "Twitter"
-  url = "https://x.com/sanajitjana01"
-  weight = 20
-  [menus.social.params]
-    icon = "twitter"
-[[menus.social]]
-  name = "LinkedIn"
-  url = "https://linkedin.com/in/sanajitjana01"
-  weight = 30
-  [menus.social.params]
-    icon = "linkedin"
-[[menus.social]]
-  name = "Email"
-  url = "mailto:sanajitjana01@gmail.com"
-  weight = 40
-  [menus.social.params]
-    icon = "email"
-
 [params]
   # Basic site info with SEO
   description = "I'm Sanajit Jana, a Full Stack Software Developer specializing in Java, Spring Boot, and Microservices. I build scalable and high-performance web applications using MySQL, PostgreSQL, Kafka, Docker, and AWS. Passionate about backend architecture, API development, cloud computing, and UI/UX design."
   keywords = ["Sanajit Jana", "Full Stack Developer", "Java Developer", "Spring Boot", "Microservices", "AWS", "Kafka", "Docker", "Kubernetes", "PostgreSQL", "MySQL", "REST API", "Backend Developer", "Frontend Developer", "Software Engineer", "CI/CD", "Redis", "Hibernate", "JPA", "JavaScript", "React", "HTML", "CSS", "UI/UX", "Web Development", "API Development", "Scalable Systems", "Cloud Computing", "DevOps", "Git", "GitHub", "Agile", "SDLC", "System Architecture", "Software Development"]
-  defaultAuthor = "Hugo Narrow"
+  defaultAuthor = "Sanajit Jana"
   language = "en-US"
   shortName = "Sanajit Jana"  # PWA
   images = ["/images/favicon.ico"]
@@ -113,13 +70,13 @@ enableEmoji = true
     description = "Building scalable backends, cloud-native apps, and solving complex problems with clean code."
     avatar = "/images/sanajit-jana.webp"
     [[params.author.social]]
+      name = "LinkedIn"
+      url = "https://linkedin.com/in/sanajitjana01"
+      icon = "linkedin"
+    [[params.author.social]]
       name = "GitHub"
       url = "https://github.com/sanajitjana"
       icon = "github"
-    [[params.author.social]]
-      name = "Twitter"
-      url = "https://x.com/sanajitjana01"
-      icon = "twitter"
     [[params.author.social]]
       name = "Email"
       url = "mailto:sanajitjana01@gmail.com"
@@ -193,6 +150,40 @@ enableEmoji = true
       url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
       displayName = "CC BY-NC-SA 4.0"
 
+# Footer menu
+[[menus.footer]]
+  name = "About"
+  pageRef = "/about"
+  weight = 10
+  [menus.footer.params]
+    icon = "about"
+[[menus.footer]]
+  name = "RSS Feed"
+  url = "/index.xml"
+  weight = 30
+  [menus.footer.params]
+    icon = "rss"
+
+# Footer manu socials
+[[menus.social]]
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/sanajitjana01"
+  weight = 10
+  [menus.social.params]
+    icon = "linkedin"
+[[menus.social]]
+  name = "GitHub"
+  url = "https://github.com/sanajitjana"
+  weight = 20
+  [menus.social.params]
+    icon = "github"
+[[menus.social]]
+  name = "Email"
+  url = "mailto:sanajitjana01@gmail.com"
+  weight = 30
+  [menus.social.params]
+    icon = "email"
+  
   # comments
   [params.comments]
     enabled = false
@@ -344,7 +335,7 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 
-# 自定义输出格式
+# Custom output format
 [outputFormats]
   [outputFormats.WebAppManifest]
     mediaType = "application/manifest+json"
