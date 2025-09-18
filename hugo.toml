@@ -37,7 +37,7 @@ enableEmoji = true
   pageRef = "/work"
   weight = 20
   [menus.main.params]
-    icon = "briefcase"
+    icon = "work"
 [[menus.main]]
   name = "Projects"
   pageRef = "/projects"
@@ -342,6 +342,7 @@ enableEmoji = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+  section = ["HTML"]
 
 # Custom output format
 [outputFormats]

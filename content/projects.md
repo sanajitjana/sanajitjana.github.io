@@ -1,3 +1,8 @@
+---
+title: "Projects"
+description: "My projects and open source contributions"
+---
+
 ## Projects
 
 Here are some of the projects I have worked on:
