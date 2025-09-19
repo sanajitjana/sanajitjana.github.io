@@ -1,8 +1,6 @@
 baseURL = 'https://sanajitjana.github.io/'
-# If this is a project site (not user/org site), change to:
-# baseURL = 'https://sanajitjana.github.io/YOUR-REPO-NAME/'
 languageCode = 'en-US'
-title = 'Sanajit Jana'
+title = 'Sanajit Jana | Software Engineer'
 
 theme = 'hugo-narrow'
 defaultContentLanguage = 'en'
@@ -13,7 +11,7 @@ hasCJKLanguage = false
 enableEmoji = true
 
 [permalinks]
-  posts = "/posts/:year/:month/:slug/"
+  posts = "/posts/:slug/"
   pages = "/:slug/"
 
 [pagination]
