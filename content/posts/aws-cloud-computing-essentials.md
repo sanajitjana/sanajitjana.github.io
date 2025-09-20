@@ -1,7 +1,7 @@
 +++
 title = 'AWS Cloud Computing Essentials'
 date = '2025-09-20T09:23:00+05:30'
-draft = true
+draft = false
 categories = ["Cloud"]
 tags = ["AWS", "Cloud Computing", "EC2", "S3", "Lambda"]
 +++
