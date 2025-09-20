@@ -83,9 +83,53 @@ Large-ish backend projects, architectures, and templates.
 ## 🤝 Open Source Contributions (Forks & PRs)
 Forks and contributions that helped me learn Open Source workflows.
 
-- [roleplay-ai (fork)](https://github.com/sanajitjana/roleplay-ai) – Forked for experimenting with a roleplay agent.  
-- [GoodFirstIssueFinder (fork)](https://github.com/sanajitjana/GoodFirstIssueFinder) – Fork for finding good-first-issues.  
-- [42core-team-website (fork)](https://github.com/sanajitjana/42core-team-website) – Contribution/fork of a team website. 
+- [roleplay-ai (fork)](https://github.com/sanajitjana/roleplay-ai) – Forked for experimenting with a roleplay agent.
+- [GoodFirstIssueFinder (fork)](https://github.com/sanajitjana/GoodFirstIssueFinder) – Fork for finding good-first-issues.
+- [42core-team-website (fork)](https://github.com/sanajitjana/42core-team-website) – Contribution/fork of a team website.
+- [action (fork)](https://github.com/sanajitjana/action) – No description available.
+- [agriculture-frontent (fork)](https://github.com/sanajitjana/agriculture-frontent) – No description available.
+- [AirQo-frontend (fork)](https://github.com/sanajitjana/AirQo-frontend) – This repository contains the frontend applications for the AirQo platform..
+- [aqa-tests (fork)](https://github.com/sanajitjana/aqa-tests) – Home of test infrastructure for Adoptium builds.
+- [Awesome-Dev-Portfolios (fork)](https://github.com/sanajitjana/Awesome-Dev-Portfolios) – This repository aims to collect portfolios and their repositories from developers around the world..
+- [backend2lab (fork)](https://github.com/sanajitjana/backend2lab) – No description available.
+- [christmas-calendar-api (fork)](https://github.com/sanajitjana/christmas-calendar-api) – This project is a dynamic Christmas calendar website where the content behind each door updates dynamically by fetching data from an API. Each day unlocks a new surprise! 🎄🎁.
+- [code-contributions (fork)](https://github.com/sanajitjana/code-contributions) – 🚀✨ Learn how to make code contributions to open source projects.
+- [CodeNarrator (fork)](https://github.com/sanajitjana/CodeNarrator) – CodeNarrator aims to bridge the gap between complex code and developer understanding. Whether you're a beginner exploring a new open-source repo, a maintainer reviewing a PR, or an engineer returning to your own old code — CodeNarrator helps you understand any codebase faster and with less effort..
+- [contribute-to-open-source (fork)](https://github.com/sanajitjana/contribute-to-open-source) – [STILL ACTIVE] Learn the GitHub workflow by contributing code in a fun simulation project.
+- [Contribute-To-This-Project (fork)](https://github.com/sanajitjana/Contribute-To-This-Project) – This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started..
+- [csf (fork)](https://github.com/sanajitjana/csf) – Curve Shortening Flow.
+- [delta-kernel-rs (fork)](https://github.com/sanajitjana/delta-kernel-rs) – A native Delta implementation for integration with any query engine.
+- [Djowda-UserApp (fork)](https://github.com/sanajitjana/Djowda-UserApp) – The official user-facing app for Djowda, allowing customers to browse nearby stores, view product availability, place orders, and track delivery status. Designed for a seamless e-grocery shopping experience..
+- [docs (fork)](https://github.com/sanajitjana/docs) – Documentation website for Keploy.
+- [EasySwitch (fork)](https://github.com/sanajitjana/EasySwitch) – EasySwitch is a unified Python SDK for Mobile Money integration across major aggregators in West Africa. It provides a single, consistent interface to simplify payment processing, reduce code duplication, and accelerate development..
+- [eesyapi.R (fork)](https://github.com/sanajitjana/eesyapi.R) – An R package with useful utility functions for connecting to, and processing data from, the DfE's explore education statistics API..
+- [expressjs.com (fork)](https://github.com/sanajitjana/expressjs.com) – The Express.js Website.
+- [extension-agregore-renderer (fork)](https://github.com/sanajitjana/extension-agregore-renderer) – A generalized Markdown/Gemini/ETC content renderer for Agregore. Replaces the old Markdown/Gemini renderers.
+- [ExtractPDF4J (fork)](https://github.com/sanajitjana/ExtractPDF4J) – Java PDF data extraction via stream/lattice/OCR-hybrid in Tabular form..
+- [first-contributions (fork)](https://github.com/sanajitjana/first-contributions) – 🚀✨ Help beginners to contribute to open source projects.
+- [fork-commit-merge (fork)](https://github.com/sanajitjana/fork-commit-merge) – Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!.
+- [fork-commit-merge-web (fork)](https://github.com/sanajitjana/fork-commit-merge-web) – Welcome to Fork, Commit, Merge! Your one-stop resource hub for mastering GitHub contributions! This project is the repo of Fork, Commit, Merge -website..
+- [git-branch-merge (fork)](https://github.com/sanajitjana/git-branch-merge) – Test repository for exploring.
+- [horusec (fork)](https://github.com/sanajitjana/horusec) – Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command..
+- [hugo-narrow (fork)](https://github.com/sanajitjana/hugo-narrow) – A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4..
+- [hydrophone (fork)](https://github.com/sanajitjana/hydrophone) – Hydrophone is a lightweight Kubernetes conformance tests runner.
+- [Job-Recommendation-System (fork)](https://github.com/sanajitjana/Job-Recommendation-System) – Job Recommendation System - AI-powered platform matching candidates with ideal jobs using NLP and ML. Features automated job classification, skill extraction, and personalized recommendations via FastAPI. Built with Python, scikit-learn, and MLflow. Perfect for HR and career services..
+- [keploy (fork)](https://github.com/sanajitjana/keploy) – Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!.
+- [kestra (fork)](https://github.com/sanajitjana/kestra) – :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation..
+- [marketing-site (fork)](https://github.com/sanajitjana/marketing-site) – 🌐 ThinkTapFast marketing site — built with Astro & Tailwind. Landing page with features, pricing, and signup flow..
+- [MediumPilot (fork)](https://github.com/sanajitjana/MediumPilot) – No description available.
+- [microcks.io (fork)](https://github.com/sanajitjana/microcks.io) – Public website resources and templates.
+- [mlscaffold (fork)](https://github.com/sanajitjana/mlscaffold) – No description available.
+- [morse-warriorz (fork)](https://github.com/sanajitjana/morse-warriorz) – A minimalist morse code learning platform with interactive converters, memorable phrases, and practice exercises..
+- [offer-hub (fork)](https://github.com/sanajitjana/offer-hub) – A platform designed to transform the freelance market by connecting professionals and clients worldwide in a secure and innovative environment..
+- [operaton (fork)](https://github.com/sanajitjana/operaton) – BPMN-Process automation for everyone .
+- [opsml (fork)](https://github.com/sanajitjana/opsml) – Quality Control for AI Artifact Management.
+- [owncast (fork)](https://github.com/sanajitjana/owncast) – Take control over your live stream video by running it yourself.  Streaming + chat out of the box..
+- [pages-telegram-blog (fork)](https://github.com/sanajitjana/pages-telegram-blog) – Static blog template for GitHub Pages that auto-builds index/RSS/sitemap and cross-posts new or updated articles to a Telegram channel via GitHub Actions..
+- [PathOfTerraria (fork)](https://github.com/sanajitjana/PathOfTerraria) – No description available.
+- [pochi (fork)](https://github.com/sanajitjana/pochi) – No description available.
+- [portfolio-website (fork)](https://github.com/sanajitjana/portfolio-website) – Source Code for Portfolio Website of Moheshwar Amarnath Biswas.
+- [question-driven-talk-assistant (fork)](https://github.com/sanajitjana/question-driven-talk-assistant) – Helps conference speakers manage questions from the audience during live sessions..
 
 — Divider: forks, PRs, and the quiet satisfaction of pushing good docs upstream.
 
