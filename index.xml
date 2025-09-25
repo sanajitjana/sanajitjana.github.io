@@ -9,72 +9,25 @@
 &lt;h2 id="-featured-projects"&gt;🚀 Featured Projects&lt;/h2&gt;
 &lt;p&gt;Best stuff — useful, polished, and worth clicking.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/sanajitjana.github.io"target="_blank"
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/sanajitjana/sanajitjana.github.io"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;sanajitjana.github.io
  &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
  fill="none"
  stroke="currentColor"
  viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – Personal blog built with Hugo (Hugo Narrow theme).&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/sanajitjana"target="_blank"
+&lt;/a&gt; – Personal blog built with Hugo (Hugo Narrow theme).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/sanajitjana/sanajitjana"target="_blank"
  class="inline-flex items-center gap-1"
 &gt;sanajitjana
  &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
  fill="none"
  stroke="currentColor"
  viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – My profile repo describing what I&amp;rsquo;m working on and links to my projects.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/React-Portfolio"target="_blank"
- class="inline-flex items-center gap-1"
-&gt;React-Portfolio
- &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – Modern responsive developer portfolio built with React.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/Interview-Ready"target="_blank"
- class="inline-flex items-center gap-1"
-&gt;Interview-Ready
- &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – Static personal DSA tracker &amp;amp; learning platform.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/Food-Order-App"target="_blank"
- class="inline-flex items-center gap-1"
-&gt;Food-Order-App
- &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – Online food delivery backend (Java Spring Boot, JPA-Hibernate, MySQL).&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/Course-Monitoring-System"target="_blank"
- class="inline-flex items-center gap-1"
-&gt;Course-Monitoring-System
- &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – Console-based Java project (JDBC + MySQL).&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/Blog-Application-Rest-API"target="_blank"
- class="inline-flex items-center gap-1"
-&gt;Blog-Application-Rest-API
- &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – Spring Boot blog backend with posts &amp;amp; comments.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sanajitjana/E-Commerce-API"target="_blank"
- class="inline-flex items-center gap-1"
-&gt;E-Commerce-API
- &lt;svg id="external-link" class="h-3 w-3 flex-shrink-0"
- fill="none"
- stroke="currentColor"
- viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/&gt;&lt;/svg&gt;
-&lt;/a&gt; – REST API for an online shopping app (Spring Boot).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;— Small brag: these are the projects I tend to show when I want to stop talking and let the code do the convincing.&lt;/p&gt;</description></item><item><title>Docker and Containerization Fundamentals</title><link>https://sanajitjana.github.io/posts/docker-and-containerization-fundamentals/</link><pubDate>Sat, 13 Sep 2025 09:22:00 +0530</pubDate><guid>https://sanajitjana.github.io/posts/docker-and-containerization-fundamentals/</guid><description>&lt;h1 id="docker-and-containerization-fundamentals"&gt;Docker and Containerization Fundamentals&lt;/h1&gt;
+&lt;/a&gt; – My profile repo describing what I&amp;rsquo;m working on and links to my projects.&lt;/p&gt;</description></item><item><title>Docker and Containerization Fundamentals</title><link>https://sanajitjana.github.io/posts/docker-and-containerization-fundamentals/</link><pubDate>Sat, 13 Sep 2025 09:22:00 +0530</pubDate><guid>https://sanajitjana.github.io/posts/docker-and-containerization-fundamentals/</guid><description>&lt;h1 id="docker-and-containerization-fundamentals"&gt;Docker and Containerization Fundamentals&lt;/h1&gt;
 &lt;p&gt;Docker has revolutionized how we develop, ship, and run applications. In this post, we&amp;rsquo;ll explore the core concepts of containerization and Docker.&lt;/p&gt;
 &lt;h2 id="what-is-docker"&gt;What is Docker?&lt;/h2&gt;
 &lt;p&gt;Docker is a platform for developing, shipping, and running applications in containers. Containers are lightweight, portable, and self-sufficient units that can run applications and their dependencies.&lt;/p&gt;
