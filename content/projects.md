@@ -13,12 +13,19 @@ Code from passion, curiosity, and necessity: explore my projects.
 Best stuff — useful, polished, and worth clicking.
 
 - [sanajitjana.github.io](https://github.com/sanajitjana/sanajitjana.github.io) – Personal blog built with Hugo (Hugo Narrow theme).  
+
 - [sanajitjana](https://github.com/sanajitjana/sanajitjana) – My profile repo describing what I'm working on and links to my projects.  
+
 - [React-Portfolio](https://github.com/sanajitjana/React-Portfolio) – Modern responsive developer portfolio built with React.  
+
 - [Interview-Ready](https://github.com/sanajitjana/Interview-Ready) – Static personal DSA tracker & learning platform.  
+
 - [Food-Order-App](https://github.com/sanajitjana/Food-Order-App) – Online food delivery backend (Java Spring Boot, JPA-Hibernate, MySQL).  
+
 - [Course-Monitoring-System](https://github.com/sanajitjana/Course-Monitoring-System) – Console-based Java project (JDBC + MySQL).  
+
 - [Blog-Application-Rest-API](https://github.com/sanajitjana/Blog-Application-Rest-API) – Spring Boot blog backend with posts & comments.  
+
 - [E-Commerce-API](https://github.com/sanajitjana/E-Commerce-API) – REST API for an online shopping app (Spring Boot).  
 
 — Small brag: these are the projects I tend to show when I want to stop talking and let the code do the convincing.
@@ -29,14 +36,23 @@ Best stuff — useful, polished, and worth clicking.
 We break things to learn how they fall. Cute, weird, useful toys.
 
 - [excuse-generator](https://github.com/sanajitjana/excuse-generator) – Funny web app that generates random excuses.  
+
 - [react-digital-clock](https://github.com/sanajitjana/react-digital-clock) – Beginner React clock using hooks.  
+
 - [react-greetings-website](https://github.com/sanajitjana/react-greetings-website) – Site that displays greetings based on local time.  
+
 - [react-map-method](https://github.com/sanajitjana/react-map-method) – Demo: passing API data through components.  
+
 - [youtube-clone](https://github.com/sanajitjana/youtube-clone) – Simple YouTube-like interface and search demo.  
+
 - [HTML-Periodic-Table](https://github.com/sanajitjana/HTML-Periodic-Table) – Static periodic table made with HTML & CSS.  
+
 - [Search-Star-Wars](https://github.com/sanajitjana/Search-Star-Wars) – Search characters from Star Wars.  
+
 - [password-generator](https://github.com/sanajitjana/password-generator) – Simple JS password generator.
+
 - [react-multi-page-website](https://github.com/sanajitjana/react-multi-page-website) – Multi-page React site using React Router.  
+
 - [react-js-forms](https://github.com/sanajitjana/react-js-forms) – Demonstrates multiple-field form handling in React.
 
 — Divider: experimental things live here. Nothing too serious, mostly mischievous learning.
@@ -47,13 +63,20 @@ We break things to learn how they fall. Cute, weird, useful toys.
 Sandboxes, exercises, coding-challenge solutions, and templates I wrote while practicing.
 
 - [leetcode-solution](https://github.com/sanajitjana/leetcode-solution) – My LeetCode solutions template (used as base for many submissions). 
+
 - [Interview-Ready](https://github.com/sanajitjana/Interview-Ready) – (also listed under Featured) personal DSA tracker and static learning platform.  
+
 - [Geektrust-Ride-Sharing](https://github.com/sanajitjana/Geektrust-Ride-Sharing) – Geektrust ride-sharing challenge solution.  
+
 - [Geektrust-Metro-Card](https://github.com/sanajitjana/Geektrust-Metro-Card) – MetroCard coding challenge solution.  
+
 - [Geektrust-Toll-Calculator](https://github.com/sanajitjana/Geektrust-Toll-Calculator) – Toll calculator coding challenge.
+
 - [Java-Digital-Clock](https://github.com/sanajitjana/Java-Digital-Clock) – Java Swing/JFrame clock demo (multithreading).  
+
 - [Spring-Tutorial-App](https://github.com/sanajitjana/Spring-Tutorial-App) – Simple tutorial maker app (Spring Boot).  
-- [Spring-Boot-... microservices examples] — see microservices cluster below.  
+
+- [Spring-Boot-.. microservices examples] — see microservices cluster below.  
 
 — Divider: homework, practice, and the occasional proud moment.
 
@@ -63,17 +86,29 @@ Sandboxes, exercises, coding-challenge solutions, and templates I wrote while pr
 Large-ish backend projects, architectures, and templates.
 
 - [spring-boot-microservices](https://github.com/sanajitjana/spring-boot-microservices) – Full microservice architecture sample.  
+
 - [Master-Microservices](https://github.com/sanajitjana/Master-Microservices) – Microservices architecture guide & examples.  
+
 - [Kafka-Spring-Boot-Microservices](https://github.com/sanajitjana/Kafka-Spring-Boot-Microservices) – Example of Kafka with Spring Boot microservices.  
+
 - [internet-banking-microservices](https://github.com/sanajitjana/internet-banking-microservices) – Internet banking microservices APIs.  
+
 - [Spring-Batch-Application](https://github.com/sanajitjana/Spring-Batch-Application) – Example of Spring Batch (CSV -> DB).  
+
 - [Spring-Boot-Security-Template](https://github.com/sanajitjana/Spring-Boot-Security-Template) – JWT + Spring Security starter.  
+
 - [SpringBoot-Ecommerce](https://github.com/sanajitjana/SpringBoot-Ecommerce) – Spring Boot e-commerce REST API.  
+
 - [E-Commerce-API](https://github.com/sanajitjana/E-Commerce-API) – E-commerce API (Spring Boot).  
+
 - [Product-Management-System](https://github.com/sanajitjana/Product-Management-System) – Product management REST API.  
+
 - [Cab-Booking-Application](https://github.com/sanajitjana/Cab-Booking-Application) – Cab booking REST APIs.  
+
 - [Event-Calender_REST-API](https://github.com/sanajitjana/Event-Calender_REST-API) – Event calendar REST API.  
+
 - [Mail-Application_REST-API](https://github.com/sanajitjana/Mail-Application_REST-API) – Mail app with send & star features.  
+
 - [Employee-Hierarchy_REST-API](https://github.com/sanajitjana/Employee-Hierarchy_REST-API) – Employee hierarchy management REST API.
 
 — Divider: backend bulk. Swagger, services, and enough DTOs to make a designer cry.
@@ -84,52 +119,98 @@ Large-ish backend projects, architectures, and templates.
 Forks and contributions that helped me learn Open Source workflows.
 
 - [roleplay-ai (fork)](https://github.com/sanajitjana/roleplay-ai) – Forked for experimenting with a roleplay agent.
+
 - [GoodFirstIssueFinder (fork)](https://github.com/sanajitjana/GoodFirstIssueFinder) – Fork for finding good-first-issues.
+
 - [42core-team-website (fork)](https://github.com/sanajitjana/42core-team-website) – Contribution/fork of a team website.
-- [action (fork)](https://github.com/sanajitjana/action) – No description available.
-- [agriculture-frontent (fork)](https://github.com/sanajitjana/agriculture-frontent) – No description available.
-- [AirQo-frontend (fork)](https://github.com/sanajitjana/AirQo-frontend) – This repository contains the frontend applications for the AirQo platform..
+
+- [action (fork)](https://github.com/sanajitjana/action) – GitHub Action for smart, agent-powered code ops with Claude, Aider, or Cursor.
+
+- [agriculture-frontent (fork)](https://github.com/sanajitjana/agriculture-frontent) – Build and deploy 3D website with Three.js.
+
+- [AirQo-frontend (fork)](https://github.com/sanajitjana/AirQo-frontend) – This repository contains the frontend applications for the AirQo platform.
+
 - [aqa-tests (fork)](https://github.com/sanajitjana/aqa-tests) – Home of test infrastructure for Adoptium builds.
-- [Awesome-Dev-Portfolios (fork)](https://github.com/sanajitjana/Awesome-Dev-Portfolios) – This repository aims to collect portfolios and their repositories from developers around the world..
-- [backend2lab (fork)](https://github.com/sanajitjana/backend2lab) – No description available.
-- [christmas-calendar-api (fork)](https://github.com/sanajitjana/christmas-calendar-api) – This project is a dynamic Christmas calendar website where the content behind each door updates dynamically by fetching data from an API. Each day unlocks a new surprise! 🎄🎁.
+
+- [Awesome-Dev-Portfolios (fork)](https://github.com/sanajitjana/Awesome-Dev-Portfolios) – Collect portfolios and their repositories from developers around the world.
+
+- [backend2lab (fork)](https://github.com/sanajitjana/backend2lab) – Backend Playground: Learn and practice backend in the browser with Node.js.
+
+- [christmas-calendar-api (fork)](https://github.com/sanajitjana/christmas-calendar-api) – A Christmas calendar unlocking daily API surprises! 🎄🎁
+
 - [code-contributions (fork)](https://github.com/sanajitjana/code-contributions) – 🚀✨ Learn how to make code contributions to open source projects.
-- [CodeNarrator (fork)](https://github.com/sanajitjana/CodeNarrator) – CodeNarrator aims to bridge the gap between complex code and developer understanding. Whether you're a beginner exploring a new open-source repo, a maintainer reviewing a PR, or an engineer returning to your own old code — CodeNarrator helps you understand any codebase faster and with less effort..
-- [contribute-to-open-source (fork)](https://github.com/sanajitjana/contribute-to-open-source) – [STILL ACTIVE] Learn the GitHub workflow by contributing code in a fun simulation project.
-- [Contribute-To-This-Project (fork)](https://github.com/sanajitjana/Contribute-To-This-Project) – This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started..
+
+- [CodeNarrator (fork)](https://github.com/sanajitjana/CodeNarrator) – CodeNarrator: Understand any codebase faster.
+
+- [contribute-to-open-source (fork)](https://github.com/sanajitjana/contribute-to-open-source) – Learn GitHub workflow through a fun simulation.
+
+- [Contribute-To-This-Project (fork)](https://github.com/sanajitjana/Contribute-To-This-Project) – Start your first GitHub contribution here.
+
 - [csf (fork)](https://github.com/sanajitjana/csf) – Curve Shortening Flow.
+
 - [delta-kernel-rs (fork)](https://github.com/sanajitjana/delta-kernel-rs) – A native Delta implementation for integration with any query engine.
-- [Djowda-UserApp (fork)](https://github.com/sanajitjana/Djowda-UserApp) – The official user-facing app for Djowda, allowing customers to browse nearby stores, view product availability, place orders, and track delivery status. Designed for a seamless e-grocery shopping experience..
+
+- [Djowda-UserApp (fork)](https://github.com/sanajitjana/Djowda-UserApp) – Djowda app: Browse, order, and track groceries easily.
+
 - [docs (fork)](https://github.com/sanajitjana/docs) – Documentation website for Keploy.
-- [EasySwitch (fork)](https://github.com/sanajitjana/EasySwitch) – EasySwitch is a unified Python SDK for Mobile Money integration across major aggregators in West Africa. It provides a single, consistent interface to simplify payment processing, reduce code duplication, and accelerate development..
-- [eesyapi.R (fork)](https://github.com/sanajitjana/eesyapi.R) – An R package with useful utility functions for connecting to, and processing data from, the DfE's explore education statistics API..
+
+- [EasySwitch (fork)](https://github.com/sanajitjana/EasySwitch) – EasySwitch: Unified Python SDK for Mobile Money in West Africa.
+
+- [eesyapi.R (fork)](https://github.com/sanajitjana/eesyapi.R) – R package for accessing and processing DfE education data.
+
 - [expressjs.com (fork)](https://github.com/sanajitjana/expressjs.com) – The Express.js Website.
-- [extension-agregore-renderer (fork)](https://github.com/sanajitjana/extension-agregore-renderer) – A generalized Markdown/Gemini/ETC content renderer for Agregore. Replaces the old Markdown/Gemini renderers.
-- [ExtractPDF4J (fork)](https://github.com/sanajitjana/ExtractPDF4J) – Java PDF data extraction via stream/lattice/OCR-hybrid in Tabular form..
+
+- [extension-agregore-renderer (fork)](https://github.com/sanajitjana/extension-agregore-renderer) – Agregore content renderer replacing old Markdown/Gemini.
+
+- [ExtractPDF4J (fork)](https://github.com/sanajitjana/ExtractPDF4J) – Java PDF data extraction via stream/lattice/OCR-hybrid in Tabular form.
+
 - [first-contributions (fork)](https://github.com/sanajitjana/first-contributions) – 🚀✨ Help beginners to contribute to open source projects.
-- [fork-commit-merge (fork)](https://github.com/sanajitjana/fork-commit-merge) – Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!.
-- [fork-commit-merge-web (fork)](https://github.com/sanajitjana/fork-commit-merge-web) – Welcome to Fork, Commit, Merge! Your one-stop resource hub for mastering GitHub contributions! This project is the repo of Fork, Commit, Merge -website..
+
+- [fork-commit-merge (fork)](https://github.com/sanajitjana/fork-commit-merge) – Learn GitHub workflow: Fork, commit, merge.
+
+- [fork-commit-merge-web (fork)](https://github.com/sanajitjana/fork-commit-merge-web) – Fork, Commit, Merge: Learn and master GitHub contributions.
+
 - [git-branch-merge (fork)](https://github.com/sanajitjana/git-branch-merge) – Test repository for exploring.
-- [horusec (fork)](https://github.com/sanajitjana/horusec) – Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command..
-- [hugo-narrow (fork)](https://github.com/sanajitjana/hugo-narrow) – A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4..
+
+- [horusec (fork)](https://github.com/sanajitjana/horusec) – Horusec: One-command open source vulnerability scanner.
+
+- [hugo-narrow (fork)](https://github.com/sanajitjana/hugo-narrow) – A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4.
+
 - [hydrophone (fork)](https://github.com/sanajitjana/hydrophone) – Hydrophone is a lightweight Kubernetes conformance tests runner.
-- [Job-Recommendation-System (fork)](https://github.com/sanajitjana/Job-Recommendation-System) – Job Recommendation System - AI-powered platform matching candidates with ideal jobs using NLP and ML. Features automated job classification, skill extraction, and personalized recommendations via FastAPI. Built with Python, scikit-learn, and MLflow. Perfect for HR and career services..
+
+- [Job-Recommendation-System (fork)](https://github.com/sanajitjana/Job-Recommendation-System) – Job Recommendation System - AI-powered platform matching candidates with ideal jobs using NLP and ML. Features automated job classification, skill extraction, and personalized recommendations via FastAPI. Built with Python, scikit-learn, and MLflow. Perfect for HR and career services.
+
 - [keploy (fork)](https://github.com/sanajitjana/keploy) – Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!.
-- [kestra (fork)](https://github.com/sanajitjana/kestra) – :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation..
-- [marketing-site (fork)](https://github.com/sanajitjana/marketing-site) – 🌐 ThinkTapFast marketing site — built with Astro & Tailwind. Landing page with features, pricing, and signup flow..
+
+- [kestra (fork)](https://github.com/sanajitjana/kestra) – :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+
+- [marketing-site (fork)](https://github.com/sanajitjana/marketing-site) – 🌐 ThinkTapFast marketing site — built with Astro & Tailwind. Landing page with features, pricing, and signup flow.
+
 - [MediumPilot (fork)](https://github.com/sanajitjana/MediumPilot) – No description available.
+
 - [microcks.io (fork)](https://github.com/sanajitjana/microcks.io) – Public website resources and templates.
+
 - [mlscaffold (fork)](https://github.com/sanajitjana/mlscaffold) – No description available.
-- [morse-warriorz (fork)](https://github.com/sanajitjana/morse-warriorz) – A minimalist morse code learning platform with interactive converters, memorable phrases, and practice exercises..
-- [offer-hub (fork)](https://github.com/sanajitjana/offer-hub) – A platform designed to transform the freelance market by connecting professionals and clients worldwide in a secure and innovative environment..
+
+- [morse-warriorz (fork)](https://github.com/sanajitjana/morse-warriorz) – A minimalist morse code learning platform with interactive converters, memorable phrases, and practice exercises.
+
+- [offer-hub (fork)](https://github.com/sanajitjana/offer-hub) – A platform designed to transform the freelance market by connecting professionals and clients worldwide in a secure and innovative environment.
+
 - [operaton (fork)](https://github.com/sanajitjana/operaton) – BPMN-Process automation for everyone .
+
 - [opsml (fork)](https://github.com/sanajitjana/opsml) – Quality Control for AI Artifact Management.
-- [owncast (fork)](https://github.com/sanajitjana/owncast) – Take control over your live stream video by running it yourself.  Streaming + chat out of the box..
-- [pages-telegram-blog (fork)](https://github.com/sanajitjana/pages-telegram-blog) – Static blog template for GitHub Pages that auto-builds index/RSS/sitemap and cross-posts new or updated articles to a Telegram channel via GitHub Actions..
+
+- [owncast (fork)](https://github.com/sanajitjana/owncast) – Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+
+- [pages-telegram-blog (fork)](https://github.com/sanajitjana/pages-telegram-blog) – Static blog template for GitHub Pages that auto-builds index/RSS/sitemap and cross-posts new or updated articles to a Telegram channel via GitHub Actions.
+
 - [PathOfTerraria (fork)](https://github.com/sanajitjana/PathOfTerraria) – No description available.
+
 - [pochi (fork)](https://github.com/sanajitjana/pochi) – No description available.
+
 - [portfolio-website (fork)](https://github.com/sanajitjana/portfolio-website) – Source Code for Portfolio Website of Moheshwar Amarnath Biswas.
-- [question-driven-talk-assistant (fork)](https://github.com/sanajitjana/question-driven-talk-assistant) – Helps conference speakers manage questions from the audience during live sessions..
+
+- [question-driven-talk-assistant (fork)](https://github.com/sanajitjana/question-driven-talk-assistant) – Helps conference speakers manage questions from the audience during live sessions.
 
 — Divider: forks, PRs, and the quiet satisfaction of pushing good docs upstream.
 
