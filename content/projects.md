@@ -62,7 +62,7 @@ We break things to learn how they fall. Cute, weird, useful toys.
 ## 📚 Learning & Practice
 Sandboxes, exercises, coding-challenge solutions, and templates I wrote while practicing.
 
-- [leetcode-solution](https://github.com/sanajitjana/leetcode-solution) – My LeetCode solutions template (used as base for many submissions). 
+- [leetcode](https://github.com/sanajitjana/leetcode) – My LeetCode journal (used as base for many submissions). 
 
 - [Interview-Ready](https://github.com/sanajitjana/Interview-Ready) – (also listed under Featured) personal DSA tracker and static learning platform.  
 
@@ -178,13 +178,13 @@ Forks and contributions that helped me learn Open Source workflows.
 
 - [hydrophone (fork)](https://github.com/sanajitjana/hydrophone) – Hydrophone is a lightweight Kubernetes conformance tests runner.
 
-- [Job-Recommendation-System (fork)](https://github.com/sanajitjana/Job-Recommendation-System) – Job Recommendation System - AI-powered platform matching candidates with ideal jobs using NLP and ML. Features automated job classification, skill extraction, and personalized recommendations via FastAPI. Built with Python, scikit-learn, and MLflow. Perfect for HR and career services.
+- [Job-Recommendation-System (fork)](https://github.com/sanajitjana/Job-Recommendation-System) – AI-Powered job recommendation and matching system.
 
-- [keploy (fork)](https://github.com/sanajitjana/keploy) – Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!.
+- [keploy (fork)](https://github.com/sanajitjana/keploy) – Automated API testing and mock generation agent.
 
-- [kestra (fork)](https://github.com/sanajitjana/kestra) – :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra (fork)](https://github.com/sanajitjana/kestra) – :zap: A universal workflow platform for automation tasks.
 
-- [marketing-site (fork)](https://github.com/sanajitjana/marketing-site) – 🌐 ThinkTapFast marketing site — built with Astro & Tailwind. Landing page with features, pricing, and signup flow.
+- [marketing-site (fork)](https://github.com/sanajitjana/marketing-site) – 🌐 ThinkTapFast marketing site built with astro and tailwind.
 
 - [MediumPilot (fork)](https://github.com/sanajitjana/MediumPilot) – No description available.
 
@@ -192,9 +192,9 @@ Forks and contributions that helped me learn Open Source workflows.
 
 - [mlscaffold (fork)](https://github.com/sanajitjana/mlscaffold) – No description available.
 
-- [morse-warriorz (fork)](https://github.com/sanajitjana/morse-warriorz) – A minimalist morse code learning platform with interactive converters, memorable phrases, and practice exercises.
+- [morse-warriorz (fork)](https://github.com/sanajitjana/morse-warriorz) – A minimalist morse code learning platform with exercises.
 
-- [offer-hub (fork)](https://github.com/sanajitjana/offer-hub) – A platform designed to transform the freelance market by connecting professionals and clients worldwide in a secure and innovative environment.
+- [offer-hub (fork)](https://github.com/sanajitjana/offer-hub) – A platform connecting freelancers and clients worldwide securely.
 
 - [operaton (fork)](https://github.com/sanajitjana/operaton) – BPMN-Process automation for everyone .
 
@@ -202,7 +202,7 @@ Forks and contributions that helped me learn Open Source workflows.
 
 - [owncast (fork)](https://github.com/sanajitjana/owncast) – Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
-- [pages-telegram-blog (fork)](https://github.com/sanajitjana/pages-telegram-blog) – Static blog template for GitHub Pages that auto-builds index/RSS/sitemap and cross-posts new or updated articles to a Telegram channel via GitHub Actions.
+- [pages-telegram-blog (fork)](https://github.com/sanajitjana/pages-telegram-blog) – A static blog template that auto-posts to telegram.
 
 - [PathOfTerraria (fork)](https://github.com/sanajitjana/PathOfTerraria) – No description available.
 
@@ -210,7 +210,7 @@ Forks and contributions that helped me learn Open Source workflows.
 
 - [portfolio-website (fork)](https://github.com/sanajitjana/portfolio-website) – Source Code for Portfolio Website of Moheshwar Amarnath Biswas.
 
-- [question-driven-talk-assistant (fork)](https://github.com/sanajitjana/question-driven-talk-assistant) – Helps conference speakers manage questions from the audience during live sessions.
+- [question-driven-talk-assistant (fork)](https://github.com/sanajitjana/question-driven-talk-assistant) – A platform helping speakers manage live audience questions.
 
 — Divider: forks, PRs, and the quiet satisfaction of pushing good docs upstream.
 
