@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Sanajit Jana | Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Sep 2025 09:24:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 09:27:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI/ML</title>
+      <link>http://localhost:1313/categories/ai/ml/</link>
+      <pubDate>Sat, 18 Oct 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/ai/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/categories/security/</link>
+      <pubDate>Sat, 11 Oct 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/categories/database/</link>
+      <pubDate>Sat, 04 Oct 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/database/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Frontend</title>
       <link>http://localhost:1313/categories/frontend/</link>

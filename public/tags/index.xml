@@ -6,8 +6,113 @@
     <description>Recent content in Tags on Sanajit Jana | Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Sep 2025 09:24:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 09:27:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 18 Oct 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Sat, 18 Oct 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Sat, 18 Oct 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sat, 18 Oct 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/tags/tensorflow/</link>
+      <pubDate>Sat, 18 Oct 2025 09:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Authentication</title>
+      <link>http://localhost:1313/tags/authentication/</link>
+      <pubDate>Sat, 11 Oct 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Sat, 11 Oct 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Encryption</title>
+      <link>http://localhost:1313/tags/encryption/</link>
+      <pubDate>Sat, 11 Oct 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/encryption/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OWASP</title>
+      <link>http://localhost:1313/tags/owasp/</link>
+      <pubDate>Sat, 11 Oct 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/owasp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Sat, 11 Oct 2025 09:26:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database Design</title>
+      <link>http://localhost:1313/tags/database-design/</link>
+      <pubDate>Sat, 04 Oct 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/database-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Sat, 04 Oct 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/tags/performance/</link>
+      <pubDate>Sat, 04 Oct 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:1313/tags/postgresql/</link>
+      <pubDate>Sat, 04 Oct 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Sat, 04 Oct 2025 09:25:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Frontend</title>
       <link>http://localhost:1313/tags/frontend/</link>
