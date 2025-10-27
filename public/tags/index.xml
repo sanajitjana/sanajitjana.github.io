@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Sanajit Jana | Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Oct 2025 09:27:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 09:28:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>http://localhost:1313/tags/android/</link>
+      <pubDate>Sat, 25 Oct 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Sat, 25 Oct 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Sat, 25 Oct 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile Development</title>
+      <link>http://localhost:1313/tags/mobile-development/</link>
+      <pubDate>Sat, 25 Oct 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mobile-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React Native</title>
+      <link>http://localhost:1313/tags/react-native/</link>
+      <pubDate>Sat, 25 Oct 2025 09:28:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/react-native/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>http://localhost:1313/tags/ai/</link>
@@ -125,13 +160,6 @@
       <link>http://localhost:1313/tags/hooks/</link>
       <pubDate>Sat, 27 Sep 2025 09:24:00 +0530</pubDate>
       <guid>http://localhost:1313/tags/hooks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JavaScript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
-      <pubDate>Sat, 27 Sep 2025 09:24:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
