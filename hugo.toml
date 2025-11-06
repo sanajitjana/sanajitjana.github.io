@@ -70,6 +70,10 @@ enableEmoji = true
     description = "Building scalable backends, cloud-native apps, and solving complex problems with clean code."
     avatar = "/images/sanajit-jana.webp"
     [[params.author.social]]
+      name = "Resume"
+      url = "https://drive.google.com/uc?export=download&id=1jtjEph6YqdL_PebgMn3OwNHgH4wopH4Z"
+      icon = "download"
+    [[params.author.social]]
       name = "LinkedIn"
       url = "https://linkedin.com/in/sanajitjana01"
       icon = "linkedin"
