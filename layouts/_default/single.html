@@ -1,0 +1,42 @@
+{{ define "main" }}
+  <!-- Breadcrumb -->
+  {{ partial "navigation/breadcrumb.html" . }}
+
+  <!-- Page Header -->
+  <header class="mb-8">
+    <h1 class="text-foreground mb-4 text-3xl font-bold md:text-4xl">
+      {{ .Title }}
+    </h1>
+    {{ if .Content }}
+      <div class="prose prose-neutral dark:prose-invert max-w-none">
+        {{ .Content }}
+      </div>
+    {{ end }}
+  </header>
+
+  <!-- Work Experience Cards (only for work page) -->
+  {{ if and (eq .Section "") (eq .File.BaseFileName "work") }}
+    
+    <!-- Work Experience Cards -->
+    <div class="space-y-6">
+      {{ if .Site.Data.work }}
+        {{ range .Site.Data.work }}
+          {{ partial "work-card.html" . }}
+        {{ end }}
+      {{ else }}
+        <div class="p-6 bg-red-50 border border-red-200 rounded-lg">
+          <h3 class="text-red-800 font-semibold mb-2">No work data found!</h3>
+          <p class="text-red-600 text-sm">The work.json file might not be loading correctly.</p>
+        </div>
+      {{ end }}
+    </div>
+    
+  {{ else }}
+    <!-- Default content for other pages -->
+    <article class="prose prose-neutral dark:prose-invert max-w-none">
+      {{ .Content }}
+    </article>
+  {{ end }}
+
+  {{ partial "features/comments.html" . }}
+{{ end }}

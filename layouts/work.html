@@ -1,0 +1,43 @@
+{{ define "main" }}
+  <div class="mx-auto max-w-4xl px-4 py-6">
+    <!-- Breadcrumb -->
+    {{ partial "navigation/breadcrumb.html" . }}
+
+    <!-- Page Header -->
+    <header class="mb-8">
+      <h1 class="text-foreground mb-4 text-3xl font-bold">
+        {{ .Title }}
+      </h1>
+      {{ if .Content }}
+        <div class="prose prose-neutral dark:prose-invert max-w-none">
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </header>
+
+    <!-- Debug: Check if data is available -->
+    <div class="mb-4 p-4 bg-muted rounded-lg">
+      <h3 class="text-sm font-semibold mb-2">Debug Information:</h3>
+      <p class="text-xs">Data available: {{ if .Site.Data.work }}Yes ({{ len .Site.Data.work }} items){{ else }}No{{ end }}</p>
+      {{ if .Site.Data.work }}
+        {{ range .Site.Data.work }}
+          <p class="text-xs">- {{ .title }} at {{ .company }}</p>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <!-- Work Experience Cards -->
+    <div class="space-y-6">
+      {{ if .Site.Data.work }}
+        {{ range .Site.Data.work }}
+          {{ partial "work-card.html" . }}
+        {{ end }}
+      {{ else }}
+        <div class="p-4 bg-red-50 border border-red-200 rounded-lg">
+          <p class="text-red-600">No work data found!</p>
+        </div>
+      {{ end }}
+    </div>
+
+  </div>
+{{ end }}

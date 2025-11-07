@@ -1,0 +1,151 @@
+{{/* Work Experience Card Component */}}
+<div class="work-card group bg-card border-border hover:bg-primary/5 hover:border-primary/20 focus:ring-primary/20 relative overflow-hidden rounded-xl border transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-xl focus:ring-2 focus:outline-none mb-8">
+  
+  <!-- Card Header -->
+  <div class="p-6 pb-4">
+    <!-- Period and Location -->
+    <div class="mb-3 flex items-center justify-between text-sm">
+      <span class="text-muted-foreground font-medium">{{ .location }}</span>
+      <span class="text-muted-foreground font-medium">{{ .period }}</span>
+    </div>
+    
+    <!-- Title and Company -->
+    <div class="mb-4">
+      <h2 class="text-foreground text-xl font-semibold leading-tight">
+        {{ .title }} <span class="text-zinc-500 font-normal">at</span> {{ .company }}
+      </h2>
+    </div>
+    
+    <!-- Description -->
+    <p class="text-muted-foreground text-sm leading-relaxed mb-4">
+      {{ .description }}
+    </p>
+    
+    <!-- Technology Tags -->
+    {{ if .technologies }}
+      <div class="mb-2 flex flex-row flex-wrap gap-2">
+        {{ range .technologies }}
+          <span class="rounded-full border border-zinc-700 px-3 py-1 text-xs text-zinc-400 bg-muted/30">
+            {{ . }}
+          </span>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+  
+  <!-- Expand/Collapse Section -->
+  <div class="border-t border-border">
+    <button onclick="toggleWorkDetails('{{ .id }}')" class="flex w-full items-center justify-center gap-2 bg-muted/30 px-6 py-3 text-sm font-medium text-muted-foreground transition-colors hover:bg-muted/50 hover:text-foreground cursor-pointer">
+      <span id="toggle-text-{{ .id }}">Show Detailed Contributions</span>
+      <svg id="toggle-icon-{{ .id }}" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevrons-left-right relative -top-[1.35px] inline-block transition-transform duration-200">
+        <path d="m9 7-5 5 5 5"></path>
+        <path d="m15 7 5 5-5 5"></path>
+      </svg>
+    </button>
+    
+    <!-- Detailed Contributions (Hidden by default) -->
+    <div id="work-details-{{ .id }}" class="hidden px-6 py-5">
+      <ul class="py-3 space-y-3">
+        {{ range .detailedContributions }}
+          <li class="flex items-start gap-3">
+            <div class="flex-shrink-0 mt-2">
+              <!-- Bullet icon -->
+              <svg class="h-2 w-2 text-blue-400" fill="currentColor" viewBox="0 0 6 6">
+                <circle cx="3" cy="3" r="2"/>
+              </svg>
+            </div>
+            <span class="text-sm text-zinc-300 leading-relaxed">{{ . }}</span>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<style>
+.work-card .hidden {
+  display: none;
+}
+
+.work-card .rotate-180 {
+  transform: rotate(180deg);
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    max-height: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    max-height: 500px;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 1;
+    max-height: 500px;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    max-height: 0;
+    transform: translateY(-10px);
+  }
+}
+
+.work-card .slide-down {
+  animation: slideDown 0.3s ease-out;
+}
+
+.work-card .slide-up {
+  animation: slideUp 0.3s ease-in;
+}
+
+/* Enhanced hover effects for better UX */
+.work-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Ensure proper spacing between cards */
+.work-card + .work-card {
+  margin-top: 1.5rem;
+}
+</style>
+
+<script>
+// Toggle work details visibility
+function toggleWorkDetails(id) {
+  const detailsElement = document.getElementById(`work-details-${id}`);
+  const toggleText = document.getElementById(`toggle-text-${id}`);
+  const toggleIcon = document.getElementById(`toggle-icon-${id}`);
+  
+  if (detailsElement.classList.contains('hidden')) {
+    // Show details
+    detailsElement.classList.remove('hidden');
+    detailsElement.classList.add('slide-down');
+    toggleText.textContent = 'Hide Detailed Contributions';
+    toggleIcon.classList.add('rotate-180');
+    
+    // Remove animation class after animation completes
+    setTimeout(() => {
+      detailsElement.classList.remove('slide-down');
+    }, 300);
+  } else {
+    // Hide details
+    detailsElement.classList.add('slide-up');
+    toggleText.textContent = 'Show Detailed Contributions';
+    toggleIcon.classList.remove('rotate-180');
+    
+    // Actually hide after animation
+    setTimeout(() => {
+      detailsElement.classList.remove('slide-up');
+      detailsElement.classList.add('hidden');
+    }, 300);
+  }
+}
+</script>
