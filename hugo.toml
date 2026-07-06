@@ -1,6 +1,6 @@
 baseURL = 'https://sanajitjana.github.io/'
 languageCode = 'en-US'
-title = 'Sanajit Jana | Software Engineer'
+title = 'Sanajit Jana | Senior Software Engineer'
 
 theme = 'hugo-narrow'
 defaultContentLanguage = 'en'
@@ -11,7 +11,6 @@ hasCJKLanguage = false
 enableEmoji = true
 
 [permalinks]
-  posts = "/posts/:slug/"
   pages = "/:slug/"
 
 [pagination]
@@ -44,10 +43,11 @@ enableEmoji = true
     icon = "folder"
 [[menus.main]]
   name = "Posts"
-  pageRef = "/posts"
+  url = "https://sanajitjana.medium.com/"
   weight = 40
   [menus.main.params]
     icon = "posts"
+    target = "_blank"
 
 [params]
   # Basic site info with SEO
@@ -66,7 +66,7 @@ enableEmoji = true
 
   [params.author]
     name = "Sanajit Jana"
-    title = "Software Engineer | Java, Spring Boot, Microservices, AWS"
+    title = "Senior Software Engineer | Java, Spring Boot, Microservices, AWS"
     description = "Building scalable backends, cloud-native apps, and solving complex problems with clean code."
     avatar = "/images/sanajit-jana.webp"
     [[params.author.social]]
@@ -163,10 +163,11 @@ enableEmoji = true
     icon = "home"
 [[menus.footer]]
   name = "Posts"
-  pageRef = "/posts"
+  url = "https://sanajitjana.medium.com/"
   weight = 20
   [menus.footer.params]
     icon = "posts"
+    target = "_blank"
 [[menus.footer]]
   name = "RSS Feed"
   url = "/index.xml"
